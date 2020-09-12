@@ -149,6 +149,7 @@
     SUBDIR += exabgp4
     SUBDIR += exaddos
     SUBDIR += fb
+    SUBDIR += fbzmq
     SUBDIR += fiche
     SUBDIR += file2pcap
     SUBDIR += findmtu
@@ -168,7 +169,6 @@
     SUBDIR += freerdp
     SUBDIR += freeswitch
     SUBDIR += freevrrpd
-    SUBDIR += frr6
     SUBDIR += frr7
     SUBDIR += frr7-pythontools
     SUBDIR += fspclient
@@ -465,6 +465,7 @@
     SUBDIR += mtr
     SUBDIR += mtr-nox11
     SUBDIR += multicat
+    SUBDIR += mvfst
     SUBDIR += nakenchat
     SUBDIR += nanomsg
     SUBDIR += nast
@@ -861,6 +862,7 @@
     SUBDIR += p5-URI-SmartURI
     SUBDIR += p5-URI-Template
     SUBDIR += p5-URI-Template-Restrict
+    SUBDIR += p5-URI-cpan
     SUBDIR += p5-URI-db
     SUBDIR += p5-URI-ws
     SUBDIR += p5-VM-EC2
@@ -1507,6 +1509,7 @@
     SUBDIR += vtun
     SUBDIR += wackamole
     SUBDIR += wakeonlan
+    SUBDIR += wangle
     SUBDIR += waypipe
     SUBDIR += wayvnc
     SUBDIR += webalizer-geodb

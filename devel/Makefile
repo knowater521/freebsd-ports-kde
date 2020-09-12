@@ -637,6 +637,7 @@
     SUBDIR += fam
     SUBDIR += fastcrc
     SUBDIR += fb-adb
+    SUBDIR += fbthrift
     SUBDIR += fc++
     SUBDIR += fhist
     SUBDIR += fifechan
@@ -5752,6 +5753,7 @@
     SUBDIR += rubygem-azure_mgmt_features
     SUBDIR += rubygem-azure_mgmt_hanaonazure
     SUBDIR += rubygem-azure_mgmt_hdinsight
+    SUBDIR += rubygem-azure_mgmt_hybrid_compute
     SUBDIR += rubygem-azure_mgmt_import_export
     SUBDIR += rubygem-azure_mgmt_iot_central
     SUBDIR += rubygem-azure_mgmt_iot_hub
